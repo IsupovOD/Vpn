@@ -1,2 +1,2 @@
-vless://77191e49-e70c-47a4-a62c-27211520a3ed@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#mir
-vless://77191e49-e70c-47a4-a62c-27211520a3ed@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=m.vk.com#+7
+vless://53cb6e3c-4950-464c-a2b1-80a05ad2a67b@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=m.vk.com#+7
+vless://53cb6e3c-4950-464c-a2b1-80a05ad2a67b@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#mir
