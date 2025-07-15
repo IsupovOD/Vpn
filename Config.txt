@@ -1,1 +1,2 @@
-vless://1fbba2fe-c0a7-41ea-bd50-3aee6bf66c8e@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#mir vless://1fbba2fe-c0a7-41ea-bd50-3aee6bf66c8e@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=m.vk.com#+7
+vless://I_Love_🇵🇸_SSHMax_f203fc8@fr.xvless.site:443?encryption=none&security=tls&sni=lk.mir-telecom.ru&type=ws&host=fr.xvless.site&path=%2Fvless#sshmax-mir00-ws
+vless://I_Love_🇵🇸_SSHMax_f203fc8@fr.xvless.site:443?encryption=none&flow=none&type=ws&host=fr.xvless.site&headerType=none&path=%252Fvless&security=tls&sni=m.vk.com#sshmax-svyaz00-ws
