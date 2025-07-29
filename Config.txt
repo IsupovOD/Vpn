@@ -1,2 +1,2 @@
-vless://I_Love_🇵🇸_SSHMax_10f00fe@ee.xvless.site:443?encryption=none&security=tls&sni=lk.mir-telecom.ru&type=ws&host=ee.xvless.site&path=%2Fvless#sshmax-mirtel0-ws
-vless://I_Love_🇵🇸_SSHMax_10f00fe@ee.xvless.site:443?encryption=none&flow=none&type=ws&host=ee.xvless.site&headerType=none&path=%252Fvless&security=tls&sni=m.vk.com#+7telecom
+vless://I_Love_🇵🇸_SSHMax_413be51@ee.xvless.site:443?encryption=none&flow=none&type=ws&host=ee.xvless.site&headerType=none&path=%252Fvless&security=tls&sni=lk.mir-telecom.ru#MIR
+vless://I_Love_🇵🇸_SSHMax_413be51@ee.xvless.site:443?encryption=none&flow=none&type=ws&host=ee.xvless.site&headerType=none&path=%252Fvless&security=tls&sni=m.vk.com#+7TEL
