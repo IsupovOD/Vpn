@@ -1,2 +1,2 @@
-trojan://16d2b473-8143-456f-acb9-d98ad9857a76@fi.trojvpn.site:443?type=ws&host=fi.trojvpn.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#МИРТЕЛЕКОМ
-trojan://16d2b473-8143-456f-acb9-d98ad9857a76@fi.trojvpn.site:443?type=ws&host=fi.trojvpn.site&headerType=none&path=%252F&security=tls&sni=web.whatsapp.com#+7ТЕЛЕКОМ/НА СВЯЗИ
+trojan://c6fd54ad-e8f9-4566-8bad-d04b545708f8@de-freevmess.privateip.net:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#МИР
+trojan://c6fd54ad-e8f9-4566-8bad-d04b545708f8@de-freevmess.privateip.net:443?type=tcp&headerType=none&security=tls&sni=web.whatsapp.com#+7/НА СВЯЗИ
