@@ -1,2 +1,2 @@
-vless://b09251e4-5733-4794-b128-c597af4cb864@de-freevmess.privateip.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lk.mir-telecom.ru&allowInsecure=1#%D0%9C%D0%98%D0%A0%D0%A2%D0%95%D0%9B%D0%95%D0%9A%D0%9E%D0%9C
-vless://b09251e4-5733-4794-b128-c597af4cb864@de-freevmess.privateip.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=lk.7telecom.ru&allowInsecure=1#%2B7%D0%A2%D0%95%D0%9B%D0%95%D0%9A%D0%9E%D0%9C
+vless://ca2ce370-3dab-4420-80bf-5b7dd9b1181b@fr2-full.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#МИР
+vless://ca2ce370-3dab-4420-80bf-5b7dd9b1181b@fr2-full.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.7telecom.ru#+7ТЕЛЕКОМ
