@@ -1,2 +1,2 @@
-vless://fb435214-1a69-4dc8-ba9e-5fe675c1a378@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=web.telegram.org%2Fk%2F#7телеком
-vless://fb435214-1a69-4dc8-ba9e-5fe675c1a378@de-freevmess.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком
+trojan://27f2bf55-d213-48a7-9b44-b0ef79e6e5ff@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=web.telegram.org#7телеком
+trojan://5679d05d-8cf5-4ade-8fd4-834e270a8ef7@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#мир
