@@ -1,2 +1,2 @@
-trojan://f5854191-aa19-4e86-b1a2-08a2ed93d8d6@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=m.vk.com#7телеком
-trojan://f5854191-aa19-4e86-b1a2-08a2ed93d8d6@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#миртелеком
+trojan://8e864ccb-b10a-4f3a-87fc-fefeedb5cd48@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#мир
+trojan://8e864ccb-b10a-4f3a-87fc-fefeedb5cd48@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.7telecom.ru#7телеком
