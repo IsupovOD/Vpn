@@ -1,2 +1,2 @@
-trojan://8e864ccb-b10a-4f3a-87fc-fefeedb5cd48@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#мир
-trojan://8e864ccb-b10a-4f3a-87fc-fefeedb5cd48@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.7telecom.ru#7телеком
+vless://116d3496-149b-42e1-99af-db294fe5c584@fr2-full.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=web.whatsapp.com#7телеком
+vless://116d3496-149b-42e1-99af-db294fe5c584@fr2-full.privateip.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком
