@@ -1,1 +1,2 @@
 trojan://433b739a-5fd0-4d18-885c-6881d30481a3@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#миртелеком
+trojan://57a24a76-5169-48d1-a617-491ad44c89ad@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=m.vk.com#7телеком
