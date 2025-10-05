@@ -1,2 +1,2 @@
-trojan://212d2cb3-06bc-4253-9fc5-39289c8568e7@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#миртелеком
-trojan://212d2cb3-06bc-4253-9fc5-39289c8568e7@fi1.xtls.site:443?type=ws&host=fi1.xtls.site&headerType=none&path=%252F&security=tls&sni=m.vk.com#7телеком
+trojan://3503bc15-019a-4112-901a-1f815ce7db3e@de-full.privateip.net:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком
+trojan://3503bc15-019a-4112-901a-1f815ce7db3e@de-full.privateip.net:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7телеком
