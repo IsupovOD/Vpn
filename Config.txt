@@ -1,2 +1,2 @@
-trojan://e68a4f0a-9e1a-4d86-bc2a-84ccbf23e17f@se1.xtls.site:443?type=ws&host=se1.xtls.site&headerType=none&path=%252F&security=tls&sni=lk.mir-telecom.ru#миртелеком
-trojan://06023ca3-5f43-424b-8db4-77706b9ed7c7@se1.xtls.site:443?type=ws&host=se1.xtls.site&headerType=none&path=%252F&security=tls&sni=m.vk.com#7телеком
+trojan://C0ldyy-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком
+trojan://C0ldyy-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7телеком
