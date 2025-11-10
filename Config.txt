@@ -1,2 +1,2 @@
-trojan://C0ldyy-vpnjantit.com@fi1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком 
-trojan://C0ldyy-vpnjantit.com@fi1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7телеком 
+trojan://C0ldyjh-vpnjantit.com@fi1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком 
+trojan://C0ldyjh-vpnjantit.com@fi1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7телеком
