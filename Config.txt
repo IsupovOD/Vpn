@@ -1,3 +1,3 @@
 trojan://C0ldyyhg-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#миртелеком 
 trojan://C0ldyyhg-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7телеком
-vless://2e282753-c936-4cc4-a6fc-df371d604f83@balanced-tun.vkproxy.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ozon.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&spx=%2F&sid=a1b2c3d4e5f6789a#рабочий
+vless://4ebbf33a-3ffd-565a-beee-9256a111181c@fi.xvless.online:443?encryption=none&flow=none&type=httpupgrade&host=fi.xvless.online&headerType=none&path=%2Fhttpupgrade&security=tls&sni=ozon.ru#%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9
