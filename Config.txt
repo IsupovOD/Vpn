@@ -1,2 +1,2 @@
-trojan://C0ldghjhj-vpnjantit.com@lv1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#%D0%BC%D0%B8%D1%80%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20
-trojan://C0ldghjhj-vpnjantit.com@lv1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_86ba@fi.xvless.online:443?encryption=none&flow=none&type=httpupgrade&host=fi.xvless.online&headerType=none&path=%2Fhttpupgrade&security=tls&sni=lk.mir-telecom.ru#%D0%BC%D0%B8%D1%80
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_1b8e@fi.xvless.online:443?encryption=none&flow=none&type=httpupgrade&host=fi.xvless.online&headerType=none&path=%2Fhttpupgrade&security=tls&sni=m.vk.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
