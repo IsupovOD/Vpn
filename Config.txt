@@ -1,2 +1,2 @@
-trojan://C0lfyfj-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=lk.mir-telecom.ru#%D0%BC%D0%B8%D1%80
-trojan://C0lfugjg-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
+trojan://c0ldhdjdh-vpnjantit.com@fi2.vpnjantit.com:443/?type=tcp&security=tls&sni=lk.mir-telecom.ru#%D0%BC%D0%B8%D1%80
+trojan://C0ldydihdj-vpnjantit.com@fi2.vpnjantit.com:443/?type=tcp&security=tls&sni=fi2.vpnjantit.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
