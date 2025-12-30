@@ -1,2 +1,2 @@
-trojan://C0lfhfhfv-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
-trojan://C0lfhfhfv-vpnjantit.com@fi2.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=web.max.ru#%D0%BC%D0%B8%D1%80%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
+trojan://C0ldyyggbngj-vpnjantit.com@ee1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=web.max.ru#%D0%9C%D0%B8%D1%80%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
+trojan://C0ldyyggbngj-vpnjantit.com@ee1.vpnjantit.com:443?type=tcp&headerType=none&security=tls&sni=m.vk.com#7%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC
