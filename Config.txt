@@ -1,1 +1,1 @@
-vless://b129eb83-f083-4660-a81a-e5991519a281@spdnet.team-pluss.com:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.ru&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&sid=78523b486884cc4d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.ru
+vless://f9826bfc-f863-488a-86d5-8f09dca99fb0@94.242.51.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=cTPVHpWKxuK-BOgZ7j0hleXfO9bx4VUVHhReuAieIRA&sid=97ad88ccc8232bfe#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%231298
