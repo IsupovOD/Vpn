@@ -1,1 +1,1 @@
-vless://7e97efdf-8f46-44c4-b72b-787baab0bcc4@81.85.77.249:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=download.max.ru&pbk=rQH9GrliwEVALNecVkzAsYqFUYRVzHXPWy-LRpPGmGE&sid=f4c1fd67f14440dc#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-12348
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@46.21.80.118:669?encryption=none&security=none&type=tcp#0554%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
