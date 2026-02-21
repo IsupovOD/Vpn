@@ -1,1 +1,1 @@
-vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&sid=6670#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23379
+vless://1b3e1af3-f623-47f7-afc2-bbf0d9e8d0f0@212.233.95.129:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=Uq4M_pBx5yHofg6ppHnrDdm9Y7nHv8mjsUtml3yIbzY&sid=8ed5501bb2cda70a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23216
