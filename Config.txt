@@ -1,1 +1,1 @@
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?encryption=none&host=afrcloud22.mmv.kr&path=%2F35.230.79.26%3D443&security=tls&sni=afrcloud22.mmv.kr&type=ws#0242%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20VLESS%20%7C%20TG:%20@YoutubeUnBlockRu
+vless://f27f5ad9-c8e7-0bb8-a43b-4fce5aabe734@5.188.141.131:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20PAORIGANET_5
