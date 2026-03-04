@@ -1,1 +1,1 @@
-vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.188.156:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23785
+vless://42f74a8c-f2cd-07d0-b5a9-78d93d0ca69b@5.188.140.37:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%8C%90%20verified%20%C2%B7%20t.me/XRayCheck%20(6)
