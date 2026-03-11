@@ -1,1 +1,1 @@
-vless://71fe87bf-da99-07d0-837e-c944476b070f@ilovemax.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%8C%90%20verified%20%C2%B7%20t.me/XRayCheck%20(33)
+vless://8884ad85-0a42-07d0-8468-42b2b8e69df2@109.120.188.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=#%F0%9F%8F%B3%EF%B8%8F%20(1083)
