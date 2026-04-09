@@ -1,1 +1,1 @@
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581882
+vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?path=%2FeyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=0&host=002.w4wl4v1cptky.workers.dev&type=ws&allowInsecure=0&sni=002.w4WL4V1cpTKY.wOrKers.dev#%F0%9F%8F%B3%EF%B8%8F%20%28846%29
