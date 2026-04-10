@@ -1,1 +1,2 @@
 vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?path=%2FeyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=0&host=002.w4wl4v1cptky.workers.dev&type=ws&allowInsecure=0&sni=002.w4WL4V1cpTKY.wOrKers.dev#%F0%9F%8F%B3%EF%B8%8F%20%28846%29
+trojan://strong-secret-pass-777@103.231.73.181:4443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20(315)
