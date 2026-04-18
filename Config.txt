@@ -1,1 +1,1 @@
-trojan://strong-secret-pass-777@94.131.105.125:4443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%286%29
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20%28315%29
