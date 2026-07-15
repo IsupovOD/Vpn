@@ -1,1 +1,1 @@
-trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&headerType=none&fp=android&allowinsecure=0&type=tcp&sni=hu2.vpnjantit.com#%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
+trojan://C0ldyfg-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&headerType=none&fp=android&allowinsecure=0&type=tcp&sni=hu2.vpnjantit.com#C0ldyfg-vpnjantit.com
