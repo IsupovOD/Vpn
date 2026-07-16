@@ -1,1 +1,1 @@
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com#%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F%20%28%D0%BE%D1%82%2015.07%29
+trojan://C0ldyhd-vpnjantit.com@nl3.vpnjantit.com:4443?pcs=68a44aa7dc4ab9859e8b46b6be07602ff54b6b21b1512cdfbed98060bd7e6813&security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=nl3.vpnjantit.com#C0ldyhd-vpnjantit.com
