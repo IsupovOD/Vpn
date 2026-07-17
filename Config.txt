@@ -1,1 +1,1 @@
-trojan://C0ldyhd-vpnjantit.com@nl3.vpnjantit.com:4443?pcs=68a44aa7dc4ab9859e8b46b6be07602ff54b6b21b1512cdfbed98060bd7e6813&security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=nl3.vpnjantit.com#C0ldyhd-vpnjantit.com
+vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@8.47.69.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=polshaov.ochmaybrooooo.online&fp=firefox&type=ws&allowInsecure=0&sni=polshaov.ochmaybrooooo.online#%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
