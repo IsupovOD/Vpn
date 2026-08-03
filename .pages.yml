@@ -1,0 +1,13 @@
+media:
+  input: /
+collections:
+  - name: "VPN Configs"
+    id: vpn_configs
+    type: files
+    files:
+      - label: "Основной конфиг"
+        path: "Config.txt" # Укажите точное имя вашего файла
+        fields:
+          - label: "Текст конфигурации"
+            id: body
+            type: text
